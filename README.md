@@ -1,12 +1,12 @@
 # Hi, I am Terry
 
-This is my file.
+I am a MSc Statistics student at Imperial.
 
-Here is another random paragraph, below is a list.
+My hobbies:
 
-1. Apple
-2. Orange
-3. Melon
+1. Badminton
+2. Hiking
+3. Music
 
 [Google.com](www.google.com)
 
