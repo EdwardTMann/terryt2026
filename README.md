@@ -1,6 +1,6 @@
-# Introduction
+# Hi, I am Terry
 
-Here is a random paragraph with no useful information.
+This is my file.
 
 Here is another random paragraph, below is a list.
 
