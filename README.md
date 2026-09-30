@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Introduction
+# Introducction
 
 Here is a random paragraph with no useful information.
 
@@ -25,5 +25,5 @@ Here is another random paragraph, below is a list.
 2. Orange
 3. Melon
 
-[Google](www.google.com)
+[Goo00glle](www.google.com)
 
